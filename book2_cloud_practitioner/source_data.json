@@ -1,0 +1,6 @@
+{"id": 1, "name": "Standard Event", "event_timestamp": "2025-06-08T10:00:00Z", "details": {"price": 29.99, "location": "Venue A"}}
+{"id": 2, "name": "Special Event", "event_timestamp": "2025-06-08T12:30:00Z", "details": {"price": 99.50, "location": "Venue B"}}
+{"id": 3, "name": "Standard Event", "event_timestamp": "2025-06-09T11:00:00Z", "details": {"price": 29.99, "location": "Venue A"}}
+{"id": 4, "name": "Workshop", "event_timestamp": "2025-06-09T14:00:00Z", "details": {"price": 150.00, "location": "Conference Room C"}}
+{"id": 5, "name": "Special Event", "event_timestamp": "2025-06-10T19:00:00Z", "details": {"price": 120.00, "location": "Grand Hall"}}
+{"id": 6, "name": "Standard Event", "event_timestamp": "2025-06-11T10:00:00Z", "details": {"price": 35.00, "location": "Venue D"}}
