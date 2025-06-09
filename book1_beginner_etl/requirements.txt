@@ -1,0 +1,9 @@
+# requirements.txt for Book 1
+#
+# These are the Python libraries needed to run the local ETL script.
+# Install them using the command: pip install -r requirements.txt
+
+requests
+pandas
+sqlalchemy
+psycopg2-binary
